@@ -8,7 +8,7 @@ local Games = {
 }
 
 -- Универсальный скрипт (если игра не найдена)
-local UniversalScript = "https://pastebin.com/raw/UNIVERSAL"
+local UniversalScript = "https://raw.githubusercontent.com/ByfroneTechno/sdosodso/refs/heads/main/Universal.lua"
 
 -- Определяем ID
 local placeId = game.PlaceId

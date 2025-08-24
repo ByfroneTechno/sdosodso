@@ -2,7 +2,7 @@
 
 -- Список игр (можно по PlaceId или по GameId)
 local Games = {
-    [1234567890] = "https://pastebin.com/raw/AAA111", -- пример: Jailbreak
+    [94647229517154] = "https://raw.githubusercontent.com/ByfroneTechno/sdosodso/refs/heads/main/Azure-Latch.lua", -- пример: Jailbreak
     [9876543210] = "https://pastebin.com/raw/BBB222", -- пример: Blox Fruits
     -- добавляй свои игры сюда
 }
